@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="elgadimo" name="fr.isima.webdev.CommentSpec" tests="2" time="0.402" timestamp="2015-02-08T17:40:32">
+  <properties />
+  <testcase classname="fr.isima.webdev.CommentSpec" name="test creation comment" time="0.244" />
+  <testcase classname="fr.isima.webdev.CommentSpec" name="test delete comment" time="0.117" />
+  <system-out><![CDATA[--Output from test creation comment--
+--Output from test delete comment--
+]]></system-out>
+  <system-err><![CDATA[--Output from test creation comment--
+--Output from test delete comment--
+]]></system-err>
+</testsuite>

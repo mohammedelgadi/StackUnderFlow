@@ -1,0 +1,22 @@
+Testsuite: fr.isima.webdev.VoteServiceSpec
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 5,32 sec
+------------- Standard Output ---------------
+--Output from test vote up--
+--Output from test vote down--
+--Output from test of non repetition down--
+--Output from test of non repetition up--
+--Output from test of vote after devote--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test vote up--
+--Output from test vote down--
+--Output from test of non repetition down--
+--Output from test of non repetition up--
+--Output from test of vote after devote--
+------------- ---------------- ---------------
+
+Testcase: test vote up took 4,747 sec
+Testcase: test vote down took 0,139 sec
+Testcase: test of non repetition down took 0,102 sec
+Testcase: test of non repetition up took 0,125 sec
+Testcase: test of vote after devote took 0,148 sec

@@ -1,0 +1,13 @@
+Testsuite: fr.isima.webdev.CommentSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,402 sec
+------------- Standard Output ---------------
+--Output from test creation comment--
+--Output from test delete comment--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test creation comment--
+--Output from test delete comment--
+------------- ---------------- ---------------
+
+Testcase: test creation comment took 0,244 sec
+Testcase: test delete comment took 0,117 sec

@@ -1,0 +1,5 @@
+--Output from test vote up--
+--Output from test vote down--
+--Output from test of non repetition down--
+--Output from test of non repetition up--
+--Output from test of vote after devote--

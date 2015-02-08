@@ -1,0 +1,82 @@
+.sidebarre{
+  background: #eee;
+}
+.page{
+  margin-top: 20px;
+}
+
+.parag{
+  margin-top: 20px;
+}
+
+.bordeer{
+  border: solid;
+}
+
+.withborder{
+  border: 3px solid rgba(149, 125, 255, 1);
+}
+
+.rowquestion{
+  padding: 10px;
+  border: 1px solid rgba(149, 125, 255, 1);
+  background: rgba(111, 255, 75, 0.16);
+  margin-top: 10px;
+}
+
+.alignauto{
+  text-align: center;
+}
+
+
+.parag{
+  margin-top: 10px;
+}
+
+.pa{
+  font-size: 12px;
+  color: #073642;
+}
+hr{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.margtop{
+  margin-top: 6px;
+}
+.margbuttom{
+  margin-bottom: 6px;
+}
+
+.marg{
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.margleft{
+  margin-left:  2px;
+}
+
+#page_navigation a{
+  padding:3px;
+  border:1px solid gray;
+  margin:2px;
+  color:black;
+  text-decoration:none
+}
+.active_page{
+  background:darkblue;
+  color:white !important;
+}
+.nomarg{
+  margin-bottom: 0%;
+  margin-top: 0%;
+  padding: 0px;
+}
+
+.nomargtop{
+  margin-bottom: 7px;
+  margin-top: 0%;
+}
+

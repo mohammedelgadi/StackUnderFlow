@@ -1,0 +1,13 @@
+Testsuite: fr.isima.webdev.VoteSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,32 sec
+------------- Standard Output ---------------
+--Output from test vote creation--
+--Output from test vote suppression--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test vote creation--
+--Output from test vote suppression--
+------------- ---------------- ---------------
+
+Testcase: test vote creation took 0,193 sec
+Testcase: test vote suppression took 0,102 sec

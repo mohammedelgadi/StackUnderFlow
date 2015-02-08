@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="elgadimo" name="fr.isima.webdev.VoteServiceSpec" tests="5" time="5.32" timestamp="2015-02-08T17:40:27">
+  <properties />
+  <testcase classname="fr.isima.webdev.VoteServiceSpec" name="test vote up" time="4.747" />
+  <testcase classname="fr.isima.webdev.VoteServiceSpec" name="test vote down" time="0.139" />
+  <testcase classname="fr.isima.webdev.VoteServiceSpec" name="test of non repetition down" time="0.102" />
+  <testcase classname="fr.isima.webdev.VoteServiceSpec" name="test of non repetition up" time="0.125" />
+  <testcase classname="fr.isima.webdev.VoteServiceSpec" name="test of vote after devote" time="0.148" />
+  <system-out><![CDATA[--Output from test vote up--
+--Output from test vote down--
+--Output from test of non repetition down--
+--Output from test of non repetition up--
+--Output from test of vote after devote--
+]]></system-out>
+  <system-err><![CDATA[--Output from test vote up--
+--Output from test vote down--
+--Output from test of non repetition down--
+--Output from test of non repetition up--
+--Output from test of vote after devote--
+]]></system-err>
+</testsuite>

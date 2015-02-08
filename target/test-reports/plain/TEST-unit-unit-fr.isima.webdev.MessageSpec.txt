@@ -1,0 +1,10 @@
+Testsuite: fr.isima.webdev.MessageSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,271 sec
+------------- Standard Output ---------------
+--Output from test heritage--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test heritage--
+------------- ---------------- ---------------
+
+Testcase: test heritage took 0,24 sec

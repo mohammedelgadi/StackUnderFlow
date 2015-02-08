@@ -1,0 +1,19 @@
+Testsuite: fr.isima.webdev.TopicSpec
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0,409 sec
+------------- Standard Output ---------------
+--Output from test topic creation--
+--Output from Delete topic test--
+--Output from Update topic test--
+--Output from Test data validity--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test topic creation--
+--Output from Delete topic test--
+--Output from Update topic test--
+--Output from Test data validity--
+------------- ---------------- ---------------
+
+Testcase: test topic creation took 0,197 sec
+Testcase: Delete topic test took 0,061 sec
+Testcase: Update topic test took 0,069 sec
+Testcase: Test data validity took 0,062 sec

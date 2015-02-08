@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="elgadimo" name="fr.isima.webdev.VoteSpec" tests="2" time="0.32" timestamp="2015-02-08T17:40:34">
+  <properties />
+  <testcase classname="fr.isima.webdev.VoteSpec" name="test vote creation" time="0.193" />
+  <testcase classname="fr.isima.webdev.VoteSpec" name="test vote suppression" time="0.102" />
+  <system-out><![CDATA[--Output from test vote creation--
+--Output from test vote suppression--
+]]></system-out>
+  <system-err><![CDATA[--Output from test vote creation--
+--Output from test vote suppression--
+]]></system-err>
+</testsuite>

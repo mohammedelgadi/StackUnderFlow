@@ -1,0 +1,10 @@
+Testsuite: fr.isima.webdev.BadgeSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,119 sec
+------------- Standard Output ---------------
+--Output from test  badges--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test  badges--
+------------- ---------------- ---------------
+
+Testcase: test  badges took 0,107 sec
